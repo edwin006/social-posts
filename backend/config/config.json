@@ -1,6 +1,6 @@
 {
-  "host": "localhost",
-  "user": "root",
-  "database": "posts",
-  "password": "password"
+  "host": "mysql-kraken89.alwaysdata.net",
+  "user": "kraken89",
+  "database": "kraken89_posts",
+  "password": "Administrador89"
 }
